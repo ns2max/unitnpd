@@ -1,0 +1,29 @@
+
+	0 - ashain fernando
+	1 - gavin warnakula
+	2 - georgy julian
+	3 - kaveesh fernando
+	4 - namal thiwanka
+	5 - rushane fernando
+	6 - sanjaya aluvihare
+	7 - shehan palihawadana
+	8 - shevon rajasekara
+	9 - vinuja fernando (6,7,8, 9 are the same)
+	10 - carlos peula
+	11 - ivan koyongo
+	12 - LORENZO SALA
+	13 - darryl india
+	14 - Luca vignati
+	
+	
+	
+	20 - nishal 1
+	21 - nishal 2
+	22 - nishal 3 - test4
+	23 - nishal 3 - test4
+	24 - nishal 3 - test4
+	
+	
+	test3 - CASE! 
+	test4 - 25 patterns - OK
+	test5 - 20 patterns
